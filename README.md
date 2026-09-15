@@ -43,5 +43,6 @@ I help e-commerce store owners understand their real numbers.
 
 **Free 5-minute audit** of your Shopify + Meta Ads setup — DM me on Instagram.
 
-- **Instagram:** [@entrepreneurshiptheory](https://instagram.com/entrepreneurshiptheory)
-- **Email:** your.email@example.com
+- **LinkedIn:** [linkedin.com/in/smmfarah](https://www.linkedin.com/in/smmfarah)
+- **Instagram:** [@syed_data_analyst](https://instagram.com/syed_data_analyst)
+- **Email:** smmfarah@gmail.com
