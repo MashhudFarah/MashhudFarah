@@ -1,48 +1,30 @@
-# Hi, I'm Syed 👋
+# Syed Muhammad Mashhud Farah
 
-**E-commerce Data Analyst | 4th Year CSE Student**
+4th-year CSE student. I work with e-commerce sales and ad-spend data in Python, SQL and Excel.
 
-I build automated dashboards that merge Shopify + Meta Ads data so store owners can see their real profit — not the inflated numbers their ad platform shows them.
+I ran Facebook ads for two small shops for about two years. "Did the ads actually make money?" never had a clean answer, so most of what I build here is about getting that answer out of raw exports.
 
----
+## Projects
 
-## 🔧 Tech Stack
+**[E-commerce Sales & Ad Spend Dashboard](https://github.com/MashhudFarah/ecommerce-sales-analytics)**
+A Python cleaning script, an Excel dashboard and a Streamlit app, built on a messy sample export of about 12,000 orders plus a daily ad-spend file. Cancelled and returned orders are kept out of revenue and ROAS.
 
-**Languages:** Python (Pandas, NumPy), SQL, C++  
-**Dashboards:** Excel (PivotTables, Slicers), Streamlit, Plotly  
-**E-commerce:** Meta Ads Manager, Shopify Analytics  
-**Tools:** Git, VS Code, Jupyter, Linux
+**[E-commerce SQL Analytics](https://github.com/MashhudFarah/ecommerce-sql-analytics)**
+The same data in a SQLite star schema, with eleven queries: cohort retention, RFM segments, ROAS by category and repeat purchase rate, using CTEs and window functions.
 
----
+**[WIDS-ESP32](https://github.com/MashhudFarah/WIDS)**
+A standalone Wi-Fi intrusion detector on an ESP32. It learns a traffic baseline, scores deauth floods, beacon spam and probe storms, and serves a live dashboard from the board. Built with [Shafayet22](https://github.com/Shafayet22). I wrote the firmware.
 
-## 📊 Featured Projects
+The analytics projects use synthetic sample data that I generated. They are not client work.
 
-### [E-commerce Data Pipeline](https://github.com/MashhudFarah/Data-Analysis-Projects)
-Automated ETL pipeline that merges Shopify orders with Meta Ads spend to calculate true ROAS and profit.
+## Tools
 
-- Reduced reporting time from **4 hours/week to 5 minutes**
-- Caught **18% revenue overstatement** from counting cancelled orders as revenue
-- Outputs: formatted Excel dashboard + interactive Streamlit app
+Python (pandas), SQL (SQLite), Excel (pivot tables, slicers), Streamlit, Plotly, C++ on ESP32, Meta Ads Manager.
 
-**Stack:** Python, Pandas, openpyxl, Streamlit, Plotly
+## Get in touch
 
-### [ESP32 WiFi Intrusion Detection System](https://github.com/MashhudFarah/WIDS)
-Real-time WiFi security monitor that detects deauth attacks and rogue access points.
+If you run an online shop and want a second look at your sales and ad numbers, send me an order export and an ad-spend export. I'll send back a one-page summary of revenue, cancellations and ROAS.
 
-- Live web dashboard served directly from the ESP32
-- Multi-layer detection with configurable thresholds
-- 5,000+ lines of embedded C++
-
-**Stack:** ESP32, C++, WiFi packet sniffing
-
----
-
-## 📫 Work With Me
-
-I help e-commerce store owners understand their real numbers.
-
-**Free 5-minute audit** of your Shopify + Meta Ads setup — DM me on Instagram.
-
-- **LinkedIn:** [linkedin.com/in/smmfarah](https://www.linkedin.com/in/smmfarah)
-- **Instagram:** [@syed_data_analyst](https://instagram.com/syed_data_analyst)
-- **Email:** smmfarah@gmail.com
+- LinkedIn: [linkedin.com/in/smmfarah](https://www.linkedin.com/in/smmfarah)
+- Email: smmfarah@gmail.com
+- Instagram: [@syed_data_analyst](https://instagram.com/syed_data_analyst)
